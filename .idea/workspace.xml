@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59067022-50bd-4390-92a3-1e3a7328dc98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="itcast-mp-springboot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZCQl5FNyUvbaTCRNDzzSPJVHi" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37126437" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.itcast" />
+      <recent name="cn.itcast.mp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\itcast-mp-springboot\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\itcast-mp-springboot\src\main\resources\mybatis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserMapperTest.testEq">
+    <configuration name="UserMapperTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testEq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testEq" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testSelectPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testSelectPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testUpdate1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testUpdate1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserMapperTest.testUpdate" />
+      <item itemvalue="JUnit.UserMapperTest.testUpdate1" />
+      <item itemvalue="JUnit.UserMapperTest.delete" />
+      <item itemvalue="JUnit.UserMapperTest.testSelectPage" />
+      <item itemvalue="JUnit.UserMapperTest.testEq" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMapperTest.testEq" />
+        <item itemvalue="JUnit.UserMapperTest.testSelectPage" />
+        <item itemvalue="JUnit.UserMapperTest.delete" />
+        <item itemvalue="JUnit.UserMapperTest.testUpdate1" />
+        <item itemvalue="JUnit.UserMapperTest.testUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59067022-50bd-4390-92a3-1e3a7328dc98" name="Default Changelist" comment="" />
+      <created>1585037214767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585037214767</updated>
+      <workItem from="1585037216199" duration="1574000" />
+      <workItem from="1585038815056" duration="1783000" />
+      <workItem from="1585040610043" duration="14280000" />
+      <workItem from="1585097804665" duration="18495000" />
+      <workItem from="1585387374607" duration="1240000" />
+      <workItem from="1585391364710" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585053184975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585053184975" />
+    <state x="520" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1585110525821">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585110525821" />
+    <state x="478" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585110992556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1585110992556" />
+    <state x="548" y="271" width="439" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585056536447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="271" width="439" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585056536447" />
+    <state x="548" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585110994934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1585110994934" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1585391390126">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585391390126" />
+    <state width="1025" height="160" key="GridCell.Tab.0.bottom" timestamp="1585128011628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1025" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585128011628" />
+    <state width="1025" height="160" key="GridCell.Tab.0.center" timestamp="1585128011628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1025" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585128011628" />
+    <state width="1025" height="160" key="GridCell.Tab.0.left" timestamp="1585128011627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1025" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585128011627" />
+    <state width="1025" height="160" key="GridCell.Tab.0.right" timestamp="1585128011628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1025" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585128011628" />
+    <state width="1025" height="160" key="GridCell.Tab.1.bottom" timestamp="1585128011628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1025" height="160" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585128011628" />
+    <state width="1025" height="160" key="GridCell.Tab.1.center" timestamp="1585128011628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1025" height="160" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585128011628" />
+    <state width="1025" height="160" key="GridCell.Tab.1.left" timestamp="1585128011628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1025" height="160" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585128011628" />
+    <state width="1025" height="160" key="GridCell.Tab.1.right" timestamp="1585128011628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1025" height="160" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585128011628" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1585388408525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585388408525" />
+    <state x="536" y="179" key="SpringBootCustomization" timestamp="1585388407364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="179" key="SpringBootCustomization/0.0.1536.824@0.0.1536.824" timestamp="1585388407364" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585391365774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585391365774" />
+    <state x="178" y="107" key="new project wizard" timestamp="1585391413705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585391413705" />
+    <state x="452" y="118" key="spring file set editor" timestamp="1585387553467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="118" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1585387553467" />
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585040731182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1585040731182" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this.h" custom="java.lang.reflect.Proxy" />
+        <watch expression="users" />
+        <watch expression="((QueryWrapper)queryWrapper).lastSql" custom="com.baomidou.mybatisplus.core.conditions.query.QueryWrapper" />
+        <watch expression="((QueryWrapper)queryWrapper).lastSql" language="JAVA" custom="com.baomidou.mybatisplus.core.conditions.query.QueryWrapper" />
+        <watch expression="((QueryWrapper)queryWrapper).lastSql" language="JAVA" custom="com.baomidou.mybatisplus.core.conditions.query.QueryWrapper" />
+        <watch expression="((QueryWrapper)queryWrapper).lastSql" language="JAVA" custom="com.baomidou.mybatisplus.core.conditions.query.QueryWrapper" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
